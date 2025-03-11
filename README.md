@@ -1,2 +1,2 @@
-# COVID19_prediction
+# COVID19_Efficientnetb0
 EfficientNetbo
